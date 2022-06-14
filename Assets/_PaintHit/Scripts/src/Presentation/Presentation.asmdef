@@ -1,0 +1,19 @@
+{
+    "name": "Presentation",
+    "rootNamespace": "PaintHit.Presentation",
+    "references": [
+        "GUID:1178d9e2043d40d4bb36ea6b18fe1590",
+        "GUID:ddaf17521c0444947993ddafd8147688",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

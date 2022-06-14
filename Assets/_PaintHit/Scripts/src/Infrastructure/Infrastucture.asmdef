@@ -1,0 +1,16 @@
+{
+    "name": "Infrastucture",
+    "rootNamespace": "PaintHit.Infrastructure",
+    "references": [
+        "GUID:1178d9e2043d40d4bb36ea6b18fe1590"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

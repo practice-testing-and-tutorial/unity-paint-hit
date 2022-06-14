@@ -1,0 +1,18 @@
+{
+    "name": "Service",
+    "rootNamespace": "PaintHit.Service",
+    "references": [
+        "GUID:1178d9e2043d40d4bb36ea6b18fe1590",
+        "GUID:f9c06c87c6d9a7347a6a8f787e08bd72",
+        "GUID:e96332d4eaae5f54da37f89ca560bbe4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
